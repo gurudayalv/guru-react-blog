@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/guru-react-blog/static/css/main.10896750.css",
-    "main.js": "/guru-react-blog/static/js/main.e738da93.js",
+    "main.js": "/guru-react-blog/static/js/main.accb09e8.js",
     "index.html": "/guru-react-blog/index.html",
     "main.10896750.css.map": "/guru-react-blog/static/css/main.10896750.css.map",
-    "main.e738da93.js.map": "/guru-react-blog/static/js/main.e738da93.js.map"
+    "main.accb09e8.js.map": "/guru-react-blog/static/js/main.accb09e8.js.map"
   },
   "entrypoints": [
     "static/css/main.10896750.css",
-    "static/js/main.e738da93.js"
+    "static/js/main.accb09e8.js"
   ]
 }
